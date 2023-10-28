@@ -31,7 +31,7 @@ INSTALL_REQUIRES = [
     "joblib>=0.12",
     "dill>=0.3.0",
     "numpy>=1.21.1",
-    "scipy>=1.0.0,<=1.7.3",
+    "scipy>=1.0.0",
     "joblib>=0.12",
 ]
 
